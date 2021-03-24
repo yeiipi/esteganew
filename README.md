@@ -3,13 +3,11 @@
 Esteganew es una libreria que maneja distintas herramientas para generar metodos de protección de la información; por medio de la estaganografia en imagenes.
 
 ### Recomendaciones Iniciales.
-- Principalmente tener instalada las librerias _PIL_ y _cryptography_. <br/>
+- Principalmente tener instalada las librerias _Pillow_ y _cryptography_. <br/>
 Para instalarlas, hay que usar los siguientes comandos en linux:
 ```
-sudo pip3 install cryptography
-```
-```
-sudo pip3 install PIL
+pip3 install cryptography
+pip3 install Pillow
 ```
 
 - Toda imagen que valla a pasar por el proceso esteganografico, debe estar dentro de la carpeta. Del archivo a utilizar.
