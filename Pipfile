@@ -8,8 +8,8 @@ pytest = ">=3.7"
 
 [packages]
 esteganew = {editable = true,path = "."}
-cryptography = "*"
-pil = "*"
+cryptography = ">=3.2"
+Pillow = "*"
 
 [requires]
 python_version = "3.6"
