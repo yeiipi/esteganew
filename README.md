@@ -51,7 +51,3 @@ Esta clase tiene requiere en un principio como primer argumento el nombre de la 
     Se encarga de recibir un mensaje encriptado de tipo str y el nombre de un archivo con extención '.key', luego por medio de la función 'open()' nativa de python extrae el texto del archivo '.key' para aplicar  funciones del modulo Fermet, que ayudan a recuperar el mensaje encriptado.
 
 
-
-__ __ __ __
-Esperamos que pueda servir de algo... <br/>
-Muchas gracias *<3*
